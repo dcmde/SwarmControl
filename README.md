@@ -23,8 +23,4 @@ Implementation potential field control for a robotic swarm.
 
 ## Boids 
 
-Implementation of the boid program. 
-
-```
-https://en.wikipedia.org/wiki/Boids
-```
+Implementation of the [boid](https://en.wikipedia.org/wiki/Boids) program. 
